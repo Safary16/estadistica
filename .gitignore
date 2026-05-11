@@ -1,0 +1,15 @@
+# Archivos generados al ejecutar el script (no forman parte del código fuente)
+resultados_estadisticos.xlsx
+grafico_canal_venta.png
+grafico_ventas_lineas.png
+grafico_boxplot_entrega.png
+
+# Caché Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entornos virtuales
+.venv/
+env/
+venv/
